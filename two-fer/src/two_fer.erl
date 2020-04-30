@@ -5,4 +5,4 @@
 
 two_fer() -> two_fer("you").
 
-two_fer(Name) -> "One for " ++ Name ++ ", one for me.".
+two_fer(Name) -> "One for " ++ Name ++ " one for me.".
